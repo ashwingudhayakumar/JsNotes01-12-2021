@@ -1,0 +1,22 @@
+every comparision operators gonna give boolean values not bolean string like typeof
+-2>1
+>>false
+10<999
+>>true
+2>=2
+>>true
+2>=5
+>>false
+2>=1
+>>true
+55.1<=55.5
+>>true
+"hello".length>='hello!'.length
+>>false
+'a'<'A'
+>>false
+'B'<'a'
+>>true
+all alphabetics has a unicode representation
+'#'<'$'
+>>true

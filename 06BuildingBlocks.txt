@@ -1,0 +1,6 @@
+work with primitive types.
+understand let and const.
+use string template literals.
+work with common operators/methods.
+primitive data types:number string boolean.
+null and undefined.

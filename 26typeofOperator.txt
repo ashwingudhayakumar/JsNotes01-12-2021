@@ -1,0 +1,17 @@
+typeof 99
+>>"number"
+
+typeof true
+>>"boolean"
+
+typeof undefined
+>>"undefined"
+
+typeof null
+>>"object"
+
+common mistake is using paranthesis while using typeof () ,typeof is like a + operator,we dont use paranthesis while we use +.but we can use paranthesis but it not needed
+
+
+
+

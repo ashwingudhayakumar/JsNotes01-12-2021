@@ -1,0 +1,57 @@
+string template literals
+
+
+special strings we can add information,expression, other variable, data inside the string
+
+and evaluated to turn into string
+
+not single quotes ''
+
+backtick used ``
+
+above tab key
+
+`he said 'lol'` we can escape
+
+embed information
+
+${}
+
+`${1+5}`
+>>'6'
+
+`i love you ${2500+500} times`
+>>"i love you 3000 times"
+
+'i love you ${2500+500} times'
+>>'i love you ${2500+500} times' not gonna work in single quotes
+
+let animal='pig'
+let sound='oink'
+
+`${animal} says ${sound}`  what are u doing is nothing but interpolating
+>>'pig says oink'
+
+`${animal} says ${sound.toUpperCase()}`
+>>'pig says OINK'
+
+
+
+
+
+
+let item='cucumbers';
+let price=1.99;
+let quantity=4;
+
+`you bought ${quantity} ${item},total price:$${price *quantity}`;
+>>'you bought 4 cucumbers,total price:$7.96';
+
+
+
+RealTimeExample:
+
+
+Reddit
+
+`posted ${elapsedTime} minutes ago by ${user}`

@@ -1,0 +1,19 @@
+if(x<10) or if(password.length>=6)
+
+
+1<=4 && 'a'==='a' //true
+
+9>10  && 9>=9     //false
+
+'abc'.length=== 3 && 1+1===4;   //false
+
+
+everything true only means true
+
+
+to check range
+
+
+boolean and or logical and
+
+nested if shorter is logical and

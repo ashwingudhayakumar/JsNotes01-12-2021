@@ -1,0 +1,35 @@
+a nice and easy way of iterating over arrays
+
+
+for(variable of iterable){
+	statement
+}
+
+
+for(let sub of subreddits){
+	console.log(sub);
+}
+
+for(let char of 'something'){
+	console.log(char.toUpperCase());
+}
+
+//SOMETHING
+
+
+
+2D
+
+
+const magicSquare=[[2,7,6],[9,5,1],[4,3,8]];
+
+for(let row of magicSquare){
+
+    let sum=0;
+
+	for(let column of row){
+            sum+=column;
+	}
+
+	console.log(sum);
+}

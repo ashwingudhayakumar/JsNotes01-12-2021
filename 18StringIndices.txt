@@ -1,0 +1,34 @@
+strings are indexed
+
+starting from 0
+
+ending at length-1
+
+every string has length properties
+
+"hello".length
+>>5
+
+spaces also inclusion
+
+last charctercter accessed by stringName[length-1]
+
+
+
+
+
+strings are immutable
+
+favSong='Surfin USA'
+
+favSong[0]='D'
+
+favSong>>'Surfin USA' only
+
+
+
+if you want to change the index of the string means
+
+take another name 
+
+let ImportantSong ='D'+ substring from index 1 to length-1 of favSong

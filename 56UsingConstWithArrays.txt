@@ -1,0 +1,4 @@
+const with arrays can able to change elements but the reference wouldn't change
+
+let can change the reference as well as elements
+

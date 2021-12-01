@@ -1,0 +1,32 @@
+condition? expIfTrue: expIfFalse;
+
+
+let num=7;
+
+if(num===7){
+	console.log('lucky');
+}
+else{
+	console.log('Bad');
+}
+
+
+or just
+
+
+num===7?console.log('lucky'):console.log('Bad');
+
+
+
+
+
+
+
+let status ='offline';
+
+let color=status ==='offline'?'red':'green';
+
+console.log(status);
+
+
+

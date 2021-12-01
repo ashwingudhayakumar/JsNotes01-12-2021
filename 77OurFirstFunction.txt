@@ -1,0 +1,31 @@
+chunk of code that wrap up in a function
+
+
+we can recall it
+
+
+2 step process
+
+define then run
+
+"hello".toUpperCase();
+
+//HELLO
+
+
+
+
+function funcName(){
+	//do something
+}
+
+
+
+funcName
+
+>>it tells this is funtion
+
+funcName()
+
+>>then only it runs after called with paranthesis
+

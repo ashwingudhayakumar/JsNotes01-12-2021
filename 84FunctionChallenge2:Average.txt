@@ -1,0 +1,14 @@
+//write a function to find the average value in an array of numbers
+//avg([0,50])//25
+
+
+
+function Avg(arr){
+let sum=0;
+	for(let x of arr){
+      sum+=x;
+	}
+	return sum/arr.length;
+}
+
+

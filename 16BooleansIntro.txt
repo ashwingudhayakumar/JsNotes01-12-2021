@@ -1,0 +1,33 @@
+primitive types:
+
+number string boolean null undefined
+
+booleans-true or false
+
+true
+
+false
+
+'true' this is not true it is string
+
+let isHungry=true;
+isHungry=false;
+
+
+
+
+
+
+
+
+
+variables can able to change type:
+
+
+typescript cant
+
+
+boolean to number is possible in js not in typescript
+
+let isAngry=false;
+isAngry=1239;

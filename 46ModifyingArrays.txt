@@ -1,0 +1,17 @@
+let colors=['rad'];
+
+
+colors[0]='red';
+
+arrays are mutable so it can be changed
+
+
+to add element at last means
+
+
+shoppingList[shoppingList.length]=whatever you want to add at last.
+
+
+
+
+

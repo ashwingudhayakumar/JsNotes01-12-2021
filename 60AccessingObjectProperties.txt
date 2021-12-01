@@ -1,0 +1,27 @@
+invalid identifier can also used as key 
+
+
+by converting as a string using and string also called by [' ']
+
+
+valid identifier as well as variable without string can just be used to call by []
+
+
+just string could be called by . operator
+
+
+
+const palette={
+	red :'#eb4d4b',
+	yellow:'#f9ca24'
+}
+
+
+palette[yellow]//error
+          |
+          |
+          |
+          |____________this search for variable 
+
+          
+palette['yellow'] or palette.yellow

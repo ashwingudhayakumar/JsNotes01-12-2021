@@ -1,0 +1,18 @@
+const movieReviews={
+	Arrival:9.5,
+	'In Bruges':9,  //space so it covers with quotes
+	coraline:7.5
+}
+
+for(let x of movieReviews){
+	console.log(x);
+}
+
+//error  because object is not iteratable where as keys and values are iteratable
+
+
+for(let x of Object.keys(movieReviews)){
+	console.log(movieReviews[x]);// x is variable so we cant use with .
+}
+
+

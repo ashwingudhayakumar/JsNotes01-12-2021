@@ -1,0 +1,36 @@
+pipe character above enter key
+
+true || false
+
+
+true
+
+
+ture || true
+
+
+true
+
+
+false || true
+
+
+ture
+
+
+false || false
+
+
+let age =78;
+
+if(age >6 || age >=65){
+	console.log('you get in for free');
+}
+else{
+	console.log('you must pay');
+}
+
+
+
+
+else if ladder shorter is logical or

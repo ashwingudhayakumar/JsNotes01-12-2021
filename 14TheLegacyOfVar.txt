@@ -1,0 +1,13 @@
+before let and const
+
+var came
+
+older code bases has var keyword
+
+function condition blocks it acts different
+
+var eggs=12;
+eggs++;
+
+scoping makes changes with let
+

@@ -1,0 +1,60 @@
+const student={
+	firstName:'David',
+	lastName:'Jones',
+	strengths:['Music','Art'],
+	exams:{
+	midterm:92,
+	final:88
+	};
+};
+
+
+task is to add midterm and final and divide by 2
+
+
+
+(student.exams.midterm+student.exams.final)/2
+
+
+
+
+task is to get the value of art
+
+
+
+
+student.strengths[1]
+
+
+
+
+const shoppingCart=[
+	
+	{
+	product:'Jenga classic',price:6.88,qunatity:1
+	},
+	{
+	product:'Echo Dot',price:29.99,qunatity:3
+	},
+	{
+	product:'Fire Stick',price:39.99,qunatity:2
+	},
+
+]
+
+
+
+Nested objects:
+
+
+const game={
+	player1:{
+	username:'blue',
+	playingAs:'X'
+	}
+	player2:{
+	username:'muffins',
+	playingAs:'0'
+	}
+	board:[['0',null,'X'],['X','0','X'],[null,'0','X']]
+};

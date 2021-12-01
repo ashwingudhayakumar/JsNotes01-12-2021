@@ -1,0 +1,24 @@
+function multiplyBy(num){
+	return function(){
+	console.log("hi");
+	}
+}
+
+
+function multiplyBy(num){
+	const f=function(){
+	console.log(''hi);
+	}
+	return f;
+}
+
+
+funtion multiplyBy(num){
+	return function(x){
+	  return x*num;
+	}
+}
+
+
+const fiveTimes=multiplyBy(5);
+fiveTimes(3)//15;

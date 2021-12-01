@@ -1,0 +1,13 @@
+accept other functions as argument
+
+return a function
+
+
+function callTwice(func){
+	func();
+	func();
+}
+function laugh(){
+	console.log('hahahahahahahahahahahahahahahahahahahahahahahahahahahaha');
+}
+callTwice(laugh)//pass a function as an arg

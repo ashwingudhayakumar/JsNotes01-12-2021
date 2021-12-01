@@ -1,0 +1,8 @@
+everything before that turns false 
+
+then only else works.
+
+it can be if and else if without else
+
+but cannot write else without if 
+

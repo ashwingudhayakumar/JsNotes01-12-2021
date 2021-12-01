@@ -1,0 +1,7 @@
+//write a getCard() function which returns a random playing card object,like:
+//{value:'k',suit:'clubs'}
+//pick a random value from:
+//A,1,2,3,4,5,6,7,8,9,10,J,Q,K
+//pick a random suit from:
+//Clubs,spades,hearts,diamonds
+//return both in an object

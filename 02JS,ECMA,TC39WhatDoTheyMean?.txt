@@ -1,0 +1,9 @@
+if new version available in itunes you go and download that latest version.
+browser implement the new feature we gonna use the new feature.
+ecma-different standards. 
+ecmascript-specification for scripting language.(not code only spec)
+javascript-implement according to the specification of ecma
+tc39 maintain ecmascript.
+es2015 or es6.
+es comes like yearly wise.
+CANIUSE.COM

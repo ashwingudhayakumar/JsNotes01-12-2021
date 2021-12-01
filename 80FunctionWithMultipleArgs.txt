@@ -1,0 +1,8 @@
+function sum(x,y){
+	console.log(x+y);
+}
+function divide(a,b){
+	console.log(a/b);
+}
+divide('N',1)>>NaN
+

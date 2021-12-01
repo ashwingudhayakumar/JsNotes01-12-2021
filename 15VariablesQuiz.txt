@@ -1,0 +1,13 @@
+let eggCount=42;
+eggCoung+2;
+>>42
+
+const rating=7.5;
+rating=8;
+>>error
+
+let wind_speed=76;
+wind_speed+=5;
+wind_speed--;
+>>80 minor issue is we using snake case rather than camel casing
+

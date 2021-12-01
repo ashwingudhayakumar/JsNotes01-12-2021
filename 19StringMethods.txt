@@ -1,0 +1,34 @@
+built in methods that are action on particular string
+
+format is thing.method()
+
+thumps down in documents means they are depricated
+
+str.toUpperCase();
+
+let msg='you are so grounded mr';
+
+msg.toUpperCase()
+>>'YOU ARE SO GROUNDED MR'
+
+msg
+>>'you are so grounded mr'
+
+msg.toLowerCase()
+
+if we mention like msg.toLowerCase
+>>it tells whether it is function or not
+
+let greeting ='     leave me alone plz';
+
+greeting.trim() //'leave me alone plz' only remevos leading and trailing spaces
+
+
+color.trim().toUpperCase()    
+|           |
+-------------
+      |
+      this .toUpperCase();
+
+
+but still that color not changed

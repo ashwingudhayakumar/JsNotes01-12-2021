@@ -1,0 +1,26 @@
+for in loops runs over the keys in object
+
+const jeopardyWinnings={
+	regularPlay:2522700,
+	watsonChallenge:300000,
+	tournamentOfChampions:500000,
+	battleOfTheDecades:100000
+}
+
+for(let prop in jeopardyWinnings){
+	console.log(jeopardyWinnings[prop]);
+}
+ // 2522700
+ // 300000
+ // 500000
+ // 100000
+
+
+for(let prop in [10,20,30,40]){
+	console.log(prop)
+}
+//0
+//1
+//2
+//3
+

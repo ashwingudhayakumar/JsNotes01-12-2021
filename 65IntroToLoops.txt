@@ -1,0 +1,28 @@
+write for loops
+
+write while loops
+
+Avoid infinite loops
+
+Iterate over arryas and objects
+
+
+loops allow us to repeat code
+	
+	print 'hello' 10 times
+
+	sum all numbers in an array
+
+there are multiple types:
+	
+	for loop
+
+	while loop
+
+	for... of loop
+
+	for... in loop
+
+
+2048 game is a real time example of loops
+

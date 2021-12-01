@@ -1,0 +1,6 @@
+1.5+1.5*2=4.5
+
+(10%6)**2    according to pemdas 4 then 4^2 leads 16
+
+200+0/0      according to pemdas 0/0 gives NaN addition with NaN leads to NaN only
+

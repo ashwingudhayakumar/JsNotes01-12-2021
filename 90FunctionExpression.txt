@@ -1,0 +1,34 @@
+function expressions
+
+thers another syntax we can use to define funtions:
+
+usually function square(num){
+	return num *num;
+}
+
+
+
+but here
+
+
+const square=function(num){
+	return num*num; //this is called anonymous function
+}
+
+how we can write like this
+
+because functions are objects
+
+we can put them in variable
+
+we can store 10 of them in an array
+
+
+
+
+const product=function multiply(x,y){
+	return x*y;//named function but you cant call with this name
+}
+
+call by only product not multiply
+

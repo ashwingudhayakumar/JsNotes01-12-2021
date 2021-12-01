@@ -1,0 +1,53 @@
+let day =3
+
+
+
+if(day ==1) console.log('mon');
+
+
+.
+.
+.
+.
+.
+.
+
+
+
+
+else console.log('enter correct number');
+
+
+
+
+
+
+if checking against one value why would we mention for each time
+
+
+
+switch(day){
+	case 1:console.log('mon');      //no curley braces required
+	break;
+
+
+	default:console.log('invalid day');
+
+}
+
+without break means it just run 
+
+
+
+let emoji='sad face';
+
+switch(emoji){
+	case 'sad face':
+	case 'happy face':
+	console.log('yellow');
+	break;
+
+	case 'eggplant':
+	console.log('purple');
+	break;
+}

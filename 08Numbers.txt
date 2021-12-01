@@ -1,0 +1,50 @@
+13 into the console just press enter
+
+
+precision is somewhat better
+
+
+
+clear() used often
+
+
+
+basic operation like calculator
+
+
+
+50+5//55
+
+
+
+90-1//89
+
+
+
+// means comment javascript ignores while running
+
+
+
+1111*7/7777
+
+
+
+1.5+1//2.5
+
+
+
+4/2 or 4 / 2 spacing not that much matter
+
+
+
+27%2//1
+
+
+
+2**3//8     EXPONENT
+
+
+
+3-9*2   //PEMDAS      pranthesis exponent multiplication division addition and subtraction
+
+

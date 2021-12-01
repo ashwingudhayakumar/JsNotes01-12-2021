@@ -1,0 +1,29 @@
+includes return boolean values
+
+
+in array it search for the element
+
+
+in string it search for the substring
+
+
+syntax:
+
+
+arr.includes(valueToFind[,fromIndex])
+
+
+
+
+
+
+
+
+
+
+
+
+
+indexOf returns the index if it present if not means it return -1
+
+

@@ -1,0 +1,22 @@
+inserting in middle we go for splice
+
+
+.splice(start index[,count to delete element,[insert elements]])
+
+
+
+you cant make dummy copy in splice
+
+
+
+.splice(0) means then it contains only empty array,it mutate 
+
+
+.splice(0,0) means the ref var doesn't contain anything it contains only have empty array
+
+
+1st arg is start index,2nd arg is count to delete element,3rd arg is inserting element
+
+ 
+
+ splice is only to manipulate things in that array 

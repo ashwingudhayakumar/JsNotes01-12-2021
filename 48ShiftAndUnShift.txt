@@ -1,0 +1,10 @@
+while push and unshift you get the length as return value
+
+
+while pop and shift you get the removed value as return value
+
+
+push(more elements separated by comma )//they are in the same order
+
+
+same for unshift

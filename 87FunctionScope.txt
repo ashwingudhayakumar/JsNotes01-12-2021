@@ -1,0 +1,26 @@
+scope
+
+variable visibility
+
+the location where a variable is defined dictates where we have access to that varaible
+
+function helpMe(){
+	let msg='I am on fire';
+
+	msg;//I am on fire
+}
+
+msg//NOT DEFINED;
+
+
+let hi='hi';
+let hi='hi';//error
+
+
+but
+
+let brid='hyna';
+
+function birdWatch(){
+	let bird='crow';//allowed
+}

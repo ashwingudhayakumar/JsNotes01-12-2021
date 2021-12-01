@@ -1,0 +1,7 @@
+const colors=[['red','crimson'],['orange','dark orange']];
+
+
+includes check only in single dimensional elements which are present not as a array type
+
+
+

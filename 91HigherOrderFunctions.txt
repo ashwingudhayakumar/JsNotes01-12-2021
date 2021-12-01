@@ -1,0 +1,30 @@
+function add(x,y){
+	return x+y;
+}
+const subtract=function(x,y){
+	return x-y;
+}
+funtion multiply(x,y){
+	return x*y;
+}
+const division=function(x,y){
+	return x/y;
+}
+
+
+const operations=[add,subtract,multiply,division];
+
+operations[1](10,3)==7;
+
+
+for(let func of operations){
+	let result=func(30,5);
+	console.log(result);
+}
+
+
+
+const thing={
+	dosomething:multiply;
+}
+thing.dosomething(10,3);//30

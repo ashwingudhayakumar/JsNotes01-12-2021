@@ -1,0 +1,25 @@
+== equality
+!= not equal
+=== strict equality
+!== strict not equality
+
+
+==  checks for equality of value but not equality of type
+    it coerces both values to the same type then compares them
+    this can lead to some unexpected results
+
+4==4
+>>true
+
+7=='7'
+>>true  
+
+0==''
+>>true
+
+0==false
+>>true
+
+null==undefined
+>>true
+

@@ -1,0 +1,32 @@
+variables for recall and store and change when it declare as let
+const cant change
+let hens=4;
+let roosters=2;
+hens+roosters;
+
+
+age=72;
+
+
+age+1 not gonna change age value
+
+it only displays age+1
+
+if we again run age it shows 72
+
+age=age+1; this done what you want
+
+what u cant:
+
+
+let let=10;error
+
+
+let document=5;error
+
+
+camel casing is the naming convention here
+
+you cant again declare the same name
+
+

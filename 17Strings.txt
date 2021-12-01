@@ -1,0 +1,34 @@
+Strings:
+
+In javascript,strings are pieces of text, or strings of characters.
+
+we wrap them in quotes (single or double)
+
+let first='1';
+
+typeof     not    typeOf
+
+typeof '87'
+>>'string'
+
+typeof 87
+>>'number'
+
+clear()
+
+
+'he said ,"hahah" '//valid
+
+"he said ,'lol'"   //valid
+
+"she said "omg""   //not valid
+
+let firstName='ziggy'; let lastName='canaryFace';
+
+let fullName=firstName+" "+lastName
+
+"hi"+1>>hi1
+'hi'-1>>NaN
+
+
+

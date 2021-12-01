@@ -1,0 +1,15 @@
+nested function
+
+
+function outer(){
+	let movie='Amadeus';
+	function inner(){
+	let movie='The shining';
+	console.log(movie.toUpperCase());
+	}
+	inner();
+}
+
+while calling inner it search for inner function block if not there means it goes to outer function block
+
+

@@ -1,0 +1,17 @@
+.reverse()
+
+
+reverse the contents present in the array
+
+
+mutable
+
+
+
+
+arr.join() returns the compined string ,if it not mention means it is simply separated by , some manipulated empty string means it combine or else if you want anything you can mention in paranthesis
+
+
+it returns sting array not going to change
+
+

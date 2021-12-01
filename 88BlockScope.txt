@@ -1,0 +1,77 @@
+if(true){
+	let animal='eel';
+}
+console.log(animal);//error
+
+
+if(true){
+	const animal='eel';
+}
+console.log(animal);//error
+
+
+
+if(true){
+	var animal='eel';
+}
+console.log(animal);//ell
+
+
+blocking scope not applicable in var
+
+
+
+let animals=['grizzly bear','panda bear','spectacled bear'];
+
+var i=10;
+
+for(var i=0;i<animals.length;i++){
+	console.log(i,animals[i]);
+}
+console.log(i)
+0,'grizzly bear'
+1,'panda bear'
+2,'specatcled bear'
+3 not 10
+
+
+
+let animals=['grizzly bear','panda bear','spectacled bear'];
+
+let i=10;
+
+for(let i=0;i<animals.length;i++){
+	console.log(i,animals[i]);
+}
+console.log(i)
+0,'grizzly bear'
+1,'panda bear'
+2,'specatcled bear'
+10 not 3
+
+
+
+function doubleArr(arr){
+	const result=[];
+	for(let num of arr){
+	let double=num*2;
+	result.push(double);
+	}
+	console.log(double);//error
+	return result;
+}
+
+
+
+
+
+
+function doubleArr(arr){
+	const result=[];
+	for(let num of arr){
+	var double=num*2;
+	result.push(double);
+	}
+	console.log(double);//it prints the doubled array
+	return result;
+}

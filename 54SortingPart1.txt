@@ -1,0 +1,13 @@
+.sort()
+
+
+would be ok for string collection
+
+
+numerical value wouldn't be correct 
+
+
+it convert everything to be string then it sort
+
+so 2 comes after 100000
+

@@ -1,0 +1,66 @@
+let fruit ='orange';
+
+let color=fruit;
+
+color
+
+
+>>orange
+
+
+fruit
+
+
+>>orange
+
+
+fruit='watermelon'
+
+
+fruit
+
+
+
+>>watermelon
+
+
+
+color
+
+
+
+>>orange
+
+
+
+so stored things is value not ref
+
+
+
+
+that because of primitive types
+
+
+
+//value type variable
+
+
+
+value is small memory so it is made memory into chunk
+
+
+but
+
+
+array not work in the same way
+
+
+
+it may contain lot of info
+
+
+
+so it made as ref
+
+
+ 

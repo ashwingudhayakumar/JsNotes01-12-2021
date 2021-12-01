@@ -1,0 +1,6 @@
+\n newline
+'he said i ain\'t happy'
+\t tab
+\\ backslash
+\' single quote
+\" double quotes

@@ -1,0 +1,22 @@
+only execute after first part(if) fails,then this correct means it excutes
+
+//performance Review
+
+
+if (rating ===3)console.log('you are a superstar')
+
+if(rating >=2)console.log('meets expectation')
+
+if rating =3 means both this statement executed,no meaning at all
+
+
+so only if else if comes into the picture
+
+if (rating ===3)console.log('you are a superstar')
+
+else if(rating >=2)console.log('meets expectation')
+
+
+this makes sense that else if execute only if not executes
+
+(note else if may use only one or two conditions can bring falsy results)

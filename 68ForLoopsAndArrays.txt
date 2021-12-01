@@ -1,0 +1,22 @@
+const animals=['lions','tigers','bears'];
+
+for(let i=0;i<animals.length;i++){
+	console.log(animals[i]);
+}
+
+
+//lions
+//tigers
+//bears
+
+const greekGods=[
+{firstName:'Zeus',grade:86},
+{firstName:'Artemis',grade:97},
+{firstName:'Hera',grade:72},
+{firstName:'Apollo',grade:90}
+];
+
+for(let i=0;i<greekGods.length;i++){
+	console.log(`${greekGods[i].firstName} scores ${greekGods[i].grade}`);
+}
+

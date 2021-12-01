@@ -1,0 +1,34 @@
+no input means same thing comes
+
+
+argument is a fancy way of saying input
+
+
+no inputs ex func
+
+'hello'.toUpperCase();
+
+arguments ex func
+
+'hello'.indexOf('h');
+
+
+
+function greet(nickname){
+	console.log(nickname);
+	console.log('hi');
+}
+
+greet('tim')
+
+tim
+hi
+
+greet(1334324)
+>>same number comes
+
+greet([])
+>>array comes
+
+greet()
+>>undefined comes

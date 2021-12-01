@@ -1,0 +1,19 @@
+{}->object literal
+[]->array literal
+
+
+
+key can be anytype
+
+everything going to convert into string
+
+while accessing also we can just enter without quotes it convert into string
+
+we can access with . as well []
+
+where . search for exact samething like variable that store something wouldn't convert and search for key
+
+but [] this either search for direct or convert and search
+
+. only used to call by using string,but not by converting string on spot as well as another variable
+

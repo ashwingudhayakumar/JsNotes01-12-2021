@@ -1,0 +1,28 @@
+let mystery=5;
+
+
+if(mystery){
+	console.log("Truthy");
+}
+else{
+	console.log('Falsy');
+}
+
+
+//truthy
+
+let loggedInUser=null;
+
+if(loggedInUser){
+	console.log('you are logged in');
+}
+else{
+	console.log('please log in');
+}
+
+//please log in
+
+
+falsy values
+
+null undefined emptystring 0 NaN

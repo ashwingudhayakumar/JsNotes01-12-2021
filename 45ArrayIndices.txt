@@ -1,0 +1,12 @@
+index start from zero
+
+
+colors=new Array(some 7 elements are there);
+
+
+you cant access length indexed in an array
+
+
+length-1 is last element
+
+

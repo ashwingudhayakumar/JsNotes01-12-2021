@@ -1,0 +1,12 @@
+null:
+intentinal absence of any value
+must be assigned
+
+let loggedInUser=null;
+if logs means
+loggedInUser='Alan Rickman'
+
+explicit value of nothingness or emptyness
+
+undefined:
+variables that do not have an assigned value are undefined.

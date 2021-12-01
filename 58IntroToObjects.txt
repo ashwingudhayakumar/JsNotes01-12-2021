@@ -1,0 +1,47 @@
+how to store 
+
+
+total steps
+
+total floors
+
+total miles
+
+avg.daily calorie burn
+
+total active minutes
+
+exercising this week
+
+avg.restful sleep
+
+
+
+
+
+with just index based you cant store this variety of information in this
+
+
+
+An object comes into the picture:
+
+
+const fitBitData={
+	totalSteps:308727,
+	totalMiles:211.7,
+	avgCalorieBurn:5755,
+	workoutsThisWeek:'5 of 7',
+	avgGoodSleep :'2:13'
+};
+
+
+objects are collection of properties
+
+we already see the property
+
+length property
+
+properties are a key value pair
+
+rather than accessing data using an index,we use custom keys.
+

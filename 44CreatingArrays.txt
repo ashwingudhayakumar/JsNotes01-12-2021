@@ -1,0 +1,36 @@
+Goals
+
+
+work with arrays
+
+write object literals
+
+understand reference types
+
+use common array/object methods
+
+
+Arrays:
+Ordered collections of values.
+	Collection of levels in a game.
+	Songs in a playlist.
+
+examples:spotify song playlist ,medium website comments
+
+
+//To make an empty array
+let students=[]
+
+//an array of strings
+let colors=['red','orange','yellow'];
+
+//an array of numbers
+let lottoNums=[19,22,56,12,51];
+
+//A mixed array
+let stuff=[true,68,'cat',null];
+
+
+[]------------this is array literal syntax
+
+new Array() also does the same thing as this []

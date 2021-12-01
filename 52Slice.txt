@@ -1,0 +1,23 @@
+.slice(start index,end index-1)
+
+
+end index is optional
+
+
+in slice without mentioning indexes means it made the copy of the reference.
+
+
+in slice without mentioning end index means it slice it throught the end.
+
+
+
+.slice(- ve index means it separated from back)
+
+
+-ve as well as positive can be compined
+
+-ve means look from back
+
++ve means look from front
+
+end index would be neglected even if it is mentioned as positive or negative

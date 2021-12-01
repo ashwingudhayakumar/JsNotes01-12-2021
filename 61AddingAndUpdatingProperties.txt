@@ -1,0 +1,9 @@
+const userReviews={};
+userReviews['queenBee49']=4;
+userReviews.mrSmith=3.5;
+
+
+adding is same as like accessing if it is not present means it adds
+
+if it is already there means it updates
+

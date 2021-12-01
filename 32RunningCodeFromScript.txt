@@ -1,0 +1,17 @@
+console called as REPL
+
+read evaluate print loop
+
+we cant simply open js
+
+we want html file
+
+create boiler plate code of html
+
+<script src="path"></script> head or body doesnt matter
+
+console.log(3+4);
+
+console.error('OH NOO!');
+
+console.log(3+4,"hello",true);

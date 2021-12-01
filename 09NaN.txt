@@ -1,0 +1,9 @@
+NaN    not a number
+Nan is a numeric value that represents something that is not a number
+0/0  -------------->NaN
+1+NaN-------------->NaN
+nan Nan is not valid
+1/0 --------------->Infinity
+-1/0--------------->-Infinity
+0------>0
+-0----->-0

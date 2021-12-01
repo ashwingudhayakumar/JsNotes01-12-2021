@@ -1,0 +1,28 @@
+const heas=4;
+hens=20//error
+
+
+
+const age=17;
+age++;//error
+
+
+why const?
+
+
+
+const pi=3.14;
+
+const daysInWeek=7;
+
+const minHeightForRide=60;
+
+
+
+note:
+
+
+const peopleCount=10;
+
+
+let peopleCount=10//error

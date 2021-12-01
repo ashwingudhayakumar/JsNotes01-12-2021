@@ -1,0 +1,30 @@
+conditional
+if
+else if
+else
+
+
+
+
+
+if(some condition is true){
+	run the code here
+}
+
+
+
+ex
+
+
+
+if(1===1){
+	console.log('its true');
+}
+
+
+
+let rating=3;
+if(rating ===3){
+	console.log('youre a superstar');
+}
+

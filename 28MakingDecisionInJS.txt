@@ -1,0 +1,7 @@
+in chess you cant move to some invalid places
+
+in netflix not signed in means it shows sign in
+
+if sign in means it tells about recharge
+
+abount comparision operators ,boolean operators and conditionals

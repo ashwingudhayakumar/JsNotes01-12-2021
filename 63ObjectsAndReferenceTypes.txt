@@ -1,0 +1,9 @@
+const palette={
+	red:'hex code',
+	blue:'some hex code'
+};
+const palette2=palette;
+palette2.green='other hex code';
+
+now both palette and palette2 contains same properties
+

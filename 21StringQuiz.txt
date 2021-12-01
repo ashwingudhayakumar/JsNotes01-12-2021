@@ -1,0 +1,30 @@
+const age='5'+'4';
+>>'54'
+
+
+'pecan pie'[7]
+>>'i'
+
+'pup'[3]
+>>undefined
+
+let song='london calling';
+song.toUpperCase();//this gives in capitalize format but the song not change to capital so o/p is
+>>'london calling'
+
+let userInput='   TODD@gmail.com';
+let cleanedInput=userInput.trime().toLowerCase();
+>>todd@gmail.com
+
+let park='yellowstone';
+const index=park.indexOf('Stone');//this stone character starts from Capital S so this returns
+>>-1
+
+let yell='GO AWAY!!';
+let index=yell.indexOf('!');
+>>7
+
+'GARBAGE!'.slice(2).replace('B','');
+>>'RAGE'
+
+

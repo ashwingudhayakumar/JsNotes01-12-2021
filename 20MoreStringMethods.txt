@@ -1,0 +1,28 @@
+thig.method(arg)
+
+
+
+arg------->inputs
+
+
+
+let tvShow='catdog';
+
+
+INDEXOF:(Give the index of the substring) case sensivie
+
+tvShow.indexOf('cat');//0
+tvShow.indexOf('dog');//3
+tvShow.indexOf('z');//-1 not found
+
+SLICE:(compusory starting index,[optional ending index])
+
+let str='something'
+str.slice(0,4)//some//it prints at index-1 alone//4 is not inclusive
+str.slice(1)//omething
+str.slice(40)//'' if we specified some invalid means it gives empty string
+
+REPLACE:(the string to be replaced,replacement string)
+str.replace('substring',replacementString)
+
+

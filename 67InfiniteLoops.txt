@@ -1,0 +1,4 @@
+the code that never executes is false loop
+
+the code always runs means it is infinite loop
+

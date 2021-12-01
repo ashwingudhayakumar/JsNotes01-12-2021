@@ -1,0 +1,16 @@
+let frutits=['apple','banana'];
+let veggies=['asparagus','brussel sprouts'];
+
+fruits.concat(veggies);
+//apple,banana,asparagus;
+
+veggies.concat(fruits);
+//asparagus,apple,banana;
+
+
+syntax 
+const new_array=old_array.concat([value1[,value2[,valueN]]]);
+
+
+so if we want some new ref we can just use concat of the old array without passing anything
+

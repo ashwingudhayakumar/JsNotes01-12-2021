@@ -1,0 +1,36 @@
+for(
+[initial expression];
+[condition];
+[increment expression]
+)
+
+without loop how much time hello print 
+
+this is obvious way
+
+
+console.log('hello');
+console.log('hello');
+console.log('hello');
+console.log('hello');
+console.log('hello');
+console.log('hello');
+console.log('hello');
+console.log('hello');
+console.log('hello');
+console.log('hello');
+
+
+with loop
+
+for(let i=1;i<=10;i++){
+	console.log('hello');
+}
+
+
+
+generate perfect square for 20
+
+for(let i=1;i<20;i++){
+	console.log(i*i);
+}

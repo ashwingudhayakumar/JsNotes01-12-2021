@@ -1,0 +1,21 @@
+=== checks for equality of value and type
+    it not coerce
+
+ 2==='2'
+ >>false
+
+ 0===false
+ >>false
+
+ undefined=== null
+ >>false
+
+ 99.99999 go with triple equals
+ 
+
+ 1!='1'
+ >>false
+
+ 1!=='1'
+ >>true
+
